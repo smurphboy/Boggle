@@ -13,3 +13,4 @@ Boggle scoring tool
 
 1. boggledice.py returns (prints at present) a valid classic Boggle board
 1. bogglescorer.py checks (removes invalid words) and scores a list of words
+1. boggleui.py will be the main program that will drive all the functions.
